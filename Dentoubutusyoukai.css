@@ -1,1 +1,11 @@
-
+@charest "UTF-8";
+h1 {
+  text-align: center;
+}
+.syoukairisuto {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+      }
