@@ -2,10 +2,15 @@
 h1 {
   text-align: center;
 }
-.syoukairisuto {
+.syoukairisuto{
   display: flex;
   flex-flow: row wrap;
-  justify-content: center;
-  align-items: center;
+  justify-content:center;
   align-content: center;
+  gap:0%;
       }
+.element{
+  max-width:100%;
+  width: 32%;
+  gap:0px;
+}
