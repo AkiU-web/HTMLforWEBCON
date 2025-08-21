@@ -1,5 +1,7 @@
-@charest "UTF-8";
-.menyu-{background-color="blue";
-       display:flex;
-       justify-content:flex-end;
-      }
+@charset "UTH-8";
+body{
+  text-align:center;
+}
+h3{
+  line-height:5;
+}
