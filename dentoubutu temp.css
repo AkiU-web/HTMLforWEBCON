@@ -1,1 +1,30 @@
-
+@charest "UTF-8";
+html{
+   font-size: 62.5%;
+}
+body{
+  text-align:center;
+}
+header{
+  background: url(../img/default.jpg) center / cover;
+  font-size:1.5rem;
+}
+.jp-title{
+  margin-top:20rem;
+  display: inline-block;
+  writing-mode: vertical-rl;
+  -webkit-writing-mode: vertical-rl;
+  -ms-writing-mode: vertical-rl;
+}
+.en-title{
+  margin-top:5px;
+  font-family: "Georgia";
+}
+.content{
+  margin-top:7.5rem;
+  font-size:2rem;
+}
+hr{
+  margin-top:1.5rem;
+  width:80%;
+}
